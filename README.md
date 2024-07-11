@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nourin Zaman Era</h1>
+<h1 align="center">Hi 👋, I'm Nourin Zaman</h1>
 <h3 align="center">Passionate about Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ML Project**
 
-- 🌱 I’m currently learning **Deep Learning, SQL, Power Bi, Tableau**
+- 🌱 I’m currently learning **Deep Learning, SQL, Power BI, Tableau**
 
 - 👯 I’m looking to collaborate on **Deep Learning project**
 
